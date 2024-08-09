@@ -12,8 +12,8 @@ I was responsible for developing these dashboards, utilizing SQL for data assura
 - Average Debt-to-Income Ratio (DTI): 13.3%
 
 Action:
-### Dashboard 1: Focused on tracking these KPIs with interactive visuals and SQL-validated data.
-### Dashboard 2: Featured advanced charts:
+ Dashboard 1: Focused on tracking these KPIs with interactive visuals and SQL-validated data.
+ Dashboard 2: Featured advanced charts:
 - Line Chart: Monthly trends by issue date.
 - Donut Chart: Loan term distribution.
 - Bar Charts: Employee length and loan purpose breakdowns.
