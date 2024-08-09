@@ -24,6 +24,7 @@ I was responsible for developing these dashboards, utilizing SQL for data assura
 ### Result:
 The dashboards provided comprehensive, real-time insights into loan performance, significantly enhancing the bank’s ability to monitor trends and make data-driven decisions.
 
-[Insert Image for Dashboard 1]
+![image](https://github.com/user-attachments/assets/ba92a52d-2a45-4f11-b986-3dd694a7d250)
+
 
 [Insert Image for Dashboard 2]
