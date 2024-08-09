@@ -27,4 +27,5 @@ The dashboards provided comprehensive, real-time insights into loan performance,
 ![image](https://github.com/user-attachments/assets/ba92a52d-2a45-4f11-b986-3dd694a7d250)
 
 
-[Insert Image for Dashboard 2]
+![image](https://github.com/user-attachments/assets/9fcd5903-7038-4a1e-a640-c134b3d5f075)
+
