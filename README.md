@@ -19,7 +19,7 @@ I was responsible for developing these dashboards, utilizing SQL for data assura
 - Bar Charts: Employee length and loan purpose breakdowns.
 - Tree Map: Home ownership impact.
 
-- SQL Code Link: [Insert Link]
+- SQL Code Link: https://github.com/SahajV1/Bank-Loan-Dashboard/blob/main/SQL%20Query.sql
 
 ### Result:
 The dashboards provided comprehensive, real-time insights into loan performance, significantly enhancing the bank’s ability to monitor trends and make data-driven decisions.
